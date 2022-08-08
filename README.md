@@ -3,12 +3,10 @@ Collection of scripts that utilize Twitter API for suspicious behavior analysis
 
 You need to enter new Twitter API values (api_key, api_secrets, access_token, access_secret) on lines: 16, 17, 21 and 22.
 
-![alt text](https://github.com/Ivan-Markovic/TwitterFun/blob/main/TwitterFun1.png)
+![alt text](https://github.com/Ivan-Markovic/TwitterFun/blob/main/TwitterFun3.png)
 
-![alt text](https://github.com/Ivan-Markovic/TwitterFun/blob/main/TwitterFun2.png)
+![alt text](https://github.com/Ivan-Markovic/TwitterFun/blob/main/TwitterFun4.png)
 
-Run: $ python3 ./getTwitterAccountDetailsTxt.py
-
-Clear all: $ python3 ./getTwitterAccountDetailsTxt.py -c
-
-Ignore duplicates: $ python3 ./getTwitterAccountDetailsTxt.py -i
+Interesting analysis done with similar scripts:
+1. https://security-net.biz/shared/bots/Analiza_neocekivanog_Twitter_statusa_IM_2022.pdf
+2. https://security-net.biz/shared/bots/Analiza_neocekivanog_Twitter_statusa_IM_2022_v2.pdf
